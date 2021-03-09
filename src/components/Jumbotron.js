@@ -16,16 +16,16 @@ class JumbotronPage extends Component {
         <MDBCol className="text-center pl-0 pr-0">
             <MDBJumbotron className="" style={{ backgroundColor: 'rgba(0,0,0,0.4)' }}>
             <MDBAnimation type="tada">
-            <h1 className="h1-responsive display">Radostina Dimitrova</h1>
+            <h1 className="h1-responsive display">Xuefan Li</h1>
             </MDBAnimation>
             <hr className="my-2" color="white" />
-            <h4 className="role pb-4 h4-responsive">Front-End Web Developer</h4>
+            <h4 className="role pb-4 h4-responsive">Full Stack Software Developer</h4>
             <MDBRow className="social-icons">
                 <MDBCol>
-                <SocialIcon className='social-icons' url="https://www.linkedin.com/in/radostina-dimitrova" target="_blank" rel="noopener noreferrer" />
+                <SocialIcon className='social-icons' url="https://www.linkedin.com/in/xuefan-li-ba16a258/" target="_blank" rel="noopener noreferrer" />
                 </MDBCol>
                 <MDBCol>            
-                    <SocialIcon className='social-icons' url="https://github.com/cristalnaya" target="_blank" rel="noopener noreferrer" />
+                    <SocialIcon className='social-icons' url="https://github.com/TomxLi/" target="_blank" rel="noopener noreferrer" />
                 </MDBCol>
                 <MDBCol>
                 <SocialIcon className='social-icons'

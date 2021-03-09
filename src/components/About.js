@@ -16,7 +16,7 @@ class About extends Component {
             <MDBCol className="text-center pl-0 pr-0">
               <h3 className="about-header text-center pb-sm-3 pt-sm-3">About</h3>
                 <div className="about-container">
-                  <p className="mx-auto text-center text-sm-center about-text pb-sm-3 pt-sm-3">Loves JavaScript and learning new technologies. <br/> Travel enthusiast, healthy food addicted. Games and music maniac. <br/> (｡◕‿◕｡)</p>
+                  <p className="mx-auto text-center text-sm-center about-text pb-sm-3 pt-sm-3">Loves coding and learning new technologies. <br/> Games and music maniac. <br/> (｡◕‿◕｡)</p>
                 </div>
               </MDBCol>
             </MDBRow>

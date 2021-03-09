@@ -7,7 +7,7 @@ export default class Footer extends Component {
         return (
             <div className="footer-copyright text-center py-3 elegant-color text-white">
               <MDBContainer fluid>
-                <p>Designed by Radostina Dimitrova | © {new Date().getFullYear()} Copyright</p>
+                <p>Designed by Xuefan Li | © {new Date().getFullYear()} Copyright</p>
               </MDBContainer>
             </div>
         )
