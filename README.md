@@ -25,17 +25,14 @@ Note: [Node JS](https://nodejs.org/en/download/) and [NPM (Node Package Manager)
 └── src
     ├── components
     │   ├── About.js
-    │   ├── data.js
     │   ├── Footer.js
     │   ├── Header.js
     │   ├── Home.js
     │   ├── Jumbotron.js
     │   ├── LatestWork.js
     │   ├── Navbar.js
-    │   ├── ProjectImage.js
     │   ├── Sidebar.js
     │   ├── Skills.js
-    │   └── SkillsList.js
     ├── containers
     │   ├── App.js
     │   └── App.scss
